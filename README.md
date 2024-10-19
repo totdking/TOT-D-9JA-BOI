@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TOT-D-9JA-BOI
+- 👋 Hi, I’m @totdking
 - 👀 I’m interested in rust,building on solana and blockchain in general
 - 🌱 I’m currently learning rust and all than entails solana infra
 - 💞️ I’m looking to collaborate on any blockchain project as more than your developer.
